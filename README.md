@@ -5,4 +5,4 @@ I'm a student, developer and yoga instructor and created an interactive playgrou
 + UIKit
 + SpriteKit
 + SceneKit
-### Good luck, enjoy and Namasté! 
+### Good luck, enjoy and Namasté! 🙏
